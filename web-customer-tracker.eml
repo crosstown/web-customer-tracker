@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" jdk="1.8" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/out/test/web-customer-tracker"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 8.0.32" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 8.0.32" value="application_server_libraries"/>
+		<level name="Spring-4.3.12.RELEASE" value="project"/>
+		<level name="Spring MVC" value="project"/>
+	</levels>
+</component>
